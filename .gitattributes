@@ -1,0 +1,9 @@
+vendor/* linguist-vendored
+public/*.html linguist-vendored
+src/**/*.astro linguist-detectable
+
+*.woff2 binary
+
+*.yml linguist-detectable=false  
+*.jpg binary
+src/*.astro linguist-detectable
